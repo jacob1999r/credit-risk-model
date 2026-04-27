@@ -1,0 +1,14 @@
+#data files
+*.csv
+*.gz
+*.zip
+
+#Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+#VSCode settings
+.vscode/
