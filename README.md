@@ -1,6 +1,3 @@
-## Credit Risk Model
-Credit risk model. Will use historical loan data (sourced from Kaggle) to analyse borrower characteristics to calculate impairments.
-
 # IFRS 9 Credit Risk Model
 
 An end-to-end IFRS 9 expected credit loss model built in Python on 100,000 real loan observations from the LendingClub dataset (2007–2018). The model computes probability of default, loss given default, and exposure at default at loan level, aggregating to a total portfolio provision of **£38.7m** against total exposure of **£299.6m** (12.9% provision rate).
